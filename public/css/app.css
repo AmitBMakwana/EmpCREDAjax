@@ -1,0 +1,27 @@
+/* Employee CRUD styles */
+
+/* Buttons */
+.btn-delete {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    }
+    .btn-delete:hover {
+    color: #fff;
+    background-color: #c82333;
+    border-color: #bd2130;
+    }
+    
+    /* Forms */
+    .form-control-file {
+    cursor: pointer;
+    }
+    
+    /* Errors */
+    .invalid-feedback {
+    display: block;
+    }
+    
+    
+    
+    
